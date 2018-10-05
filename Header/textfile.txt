@@ -1,0 +1,12 @@
+this
+is
+a
+test
+of
+the
+program
+and
+it
+works
+like
+magic
